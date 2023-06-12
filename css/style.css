@@ -3,6 +3,7 @@
     /* padding: 0; DA CHIEDERE AL PROF. */
     font-size: 30px;
 }
+    /* logo e banner */
 .logo {
     margin: 70px 0px 15px 15px;
     height: 90px;
@@ -12,6 +13,7 @@
     background-position: calc(100% - 35px) 0%;
     background-color: #4ea0ff;
 }
+    /* titolo , sottotitolo(didascalia) e immagini */
 h1{
     font-size: 70px;
 }
@@ -35,14 +37,14 @@ img{
     margin-top: 30px;
     height: 650px;
 }
-
+    /* margine e evidenziatore paragrafo */
 .description{
     margin: 50px 0px;
 }
 .underline{
     background-color: rgba(255, 255, 0, 0.5);
 }
-
+    /* sezione tabella */
 table{
     width: 100%;
     border-collapse: collapse;
@@ -58,4 +60,24 @@ th{
 }
 .light-tr{
     background-color: #b1e5f2;
+}
+    /* footer */
+.articole-1{
+
+    background-image: url(../img/monitor.jpg);
+
+}
+.articole-2{
+
+    background-image: url(../img/graph.jpg);
+
+}
+.img-parameters{
+    margin-top: 20px;
+    padding: 10px;
+    width: 350px;
+    height:250px;
+    font-weight: 900;
+    color: white;
+    background-size:cover;  
 }
