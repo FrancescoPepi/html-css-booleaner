@@ -25,13 +25,13 @@ a{
     color: #4ea0ff;
 }
 .powered-by{
-    
+
     color: lightslategray;
-    
+
 }
 .caption{
     font-size: 20px;
-    
+
 }
 img{
     margin-top: 30px;
@@ -79,5 +79,15 @@ th{
     height:250px;
     font-weight: 900;
     color: white;
-    background-size:cover;  
+    background-size:cover;
+}
+    /* bonus */
+.pagina{
+    margin: 2% 40% 0 40%;
+    background-color: rgba(177, 229, 242, 0.3);
+    border-radius: 50px;
+    border: 2px solid #b1e5f2;
+    display: block;
+    text-align: center;
+    font-size: 50px;
 }
