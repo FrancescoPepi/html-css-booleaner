@@ -1,5 +1,7 @@
 *{
     margin: 0;
+    padding: 0;
+    font-size: 30px;
 }
 .logo {
     margin: 70px 0px 15px 15px;
@@ -20,10 +22,23 @@ a{
     text-decoration: none;
     color: #4ea0ff;
 }
-.caption{
-    font-size: 30px;
+.powered-by{
+    
     color: lightslategray;
+    
 }
-.data{
+.caption{
     font-size: 20px;
+    
+}
+img{
+    margin-top: 30px;
+    height: 650px;
+}
+
+.description{
+    margin: 50px 0px;
+}
+.underline{
+    background-color: rgba(255, 255, 0, 0.5);
 }
