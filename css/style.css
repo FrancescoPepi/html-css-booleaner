@@ -2,13 +2,28 @@
     margin: 0;
 }
 .logo {
-    margin-top: 70px;
-    margin-bottom: 15px;
-    margin-left: 15px;
+    margin: 70px 0px 15px 15px;
     height: 90px;
 }
-.prova{
+.billboard{
     background-image: url(../img/pattern.png);
     background-position: calc(100% - 35px) 0%;
     background-color: #4ea0ff;
+}
+h1{
+    font-size: 70px;
+}
+.big-container{
+    margin: 30px 10px;
+}
+a{
+    text-decoration: none;
+    color: #4ea0ff;
+}
+.caption{
+    font-size: 30px;
+    color: lightslategray;
+}
+.data{
+    font-size: 20px;
 }
