@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
+    /* padding: 0; DA CHIEDERE AL PROF. */
     font-size: 30px;
 }
 .logo {
@@ -41,4 +41,21 @@ img{
 }
 .underline{
     background-color: rgba(255, 255, 0, 0.5);
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.big-th{
+    width: 55%;
+}
+
+th{
+    color: white;
+    background-color:#20a9e5;
+    text-align: left;
+}
+.light-tr{
+    background-color: #b1e5f2;
 }
